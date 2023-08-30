@@ -16,9 +16,6 @@ python data/convert.py \
     --save_dir EXPLAIMEETSUM_DIRECTORY
 ```
 
-### Dataset Format
-You can find format of each dataset in [here](data/README.md)
-
 ##### ExplainMeetSum
 ExplainMeetSum data is extended-version of QMSum dataset. To annotate evidence sentence by sentence, we had to split sentences as correctly as we can. Below are our methods how to split sentences
 
